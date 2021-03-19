@@ -1,5 +1,7 @@
-this be rai\n
-currently 2nd year software engineering/project management student in the university of sydney\n
+this be rai
+
+currently 2nd year software engineering/project management student in the university of sydney
+
 pog
 
 
