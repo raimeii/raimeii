@@ -1,8 +1,6 @@
-this be rai
+Github repository for Allen Burias, currently a second year Software Engineering/Project Management student at the University of Sydney.
 
-currently 2nd year software engineering/project management student in the university of sydney
-
-pog
+Contains repos for university projects (since I tend to work on multiple devices) as well as personal projects for the future.
 
 
 <!---
